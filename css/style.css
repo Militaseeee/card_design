@@ -143,6 +143,9 @@ h1 {
     margin: 0;
     padding: 0;
   }
+  picture{
+    width: 100vw;
+  }
 
   figure img {
     width: 100%;
@@ -189,7 +192,9 @@ h1 {
   figure {
     width: 100%;
   }
-
+  picture{
+    width: 100vw;
+  }
   figure img {
     width: 100%;
     height: auto;
